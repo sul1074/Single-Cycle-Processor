@@ -1,6 +1,6 @@
 # A RISC-V based Single Cycle Processor designed using Logism
 
-This processor supports a limited subset of RISC-V instructions.    The supported instruction types and their opcodes are:  
+This processor supports a limited subset of RISC-V instructions.    The supported instruction types and their opcodes are:      
 ### Supported Instruction Types  
 - **R-type (`0x33`)**: Arithmetic and logical operations (`add`, `sub`, `and`, `or`, `xor`).  
 - **I-type (`0x13`)**: Immediate operations (`addi`, `andi`, `ori`).  
