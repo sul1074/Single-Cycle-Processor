@@ -1,4 +1,4 @@
-# A RISC-based Single Cycle Processor designed using Logism
+# A RISC-V based Single Cycle Processor designed using Logism
 
 This processor supports a limited subset of RISC-V instructions. The supported instruction types and their opcodes are:  
 ### Supported Instruction Types  
